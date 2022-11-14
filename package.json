@@ -1,0 +1,17 @@
+{
+  "name": "hirez-signature-helper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "module": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hirez",
+    "smite",
+    "paladins"
+  ],
+  "author": "Wander Souza",
+  "license": "MIT"
+}

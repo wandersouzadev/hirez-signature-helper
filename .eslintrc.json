@@ -14,5 +14,6 @@
         "project": "./tsconfig.json"
     },
     "rules": {
+        "@typescript-eslint/no-extraneous-class": "off"
     }
 }

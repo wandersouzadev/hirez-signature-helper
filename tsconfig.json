@@ -1,10 +1,10 @@
 {
     "compilerOptions": {
         "target": "ES2015",
-        "module": "Node16",
-        "moduleResolution": "Node16",
+        "moduleResolution": "Node",
         "esModuleInterop": true,
         "strict": true,
-        "outDir": "lib"
-    }
+        "declaration": true,
+        "sourceMap": true
+    },
 }

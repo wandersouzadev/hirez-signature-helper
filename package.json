@@ -22,6 +22,10 @@
     "smite",
     "paladins"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wandersouzadev/hirez-signature-helper"
+  },
   "author": "Wander Souza",
   "license": "MIT",
   "devDependencies": {

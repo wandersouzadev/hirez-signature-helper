@@ -1,4 +1,0 @@
-{
-    "vitest.commandLine": "npm test --",
-    "vitest.showFailMessages": true
-}

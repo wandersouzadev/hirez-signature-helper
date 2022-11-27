@@ -7,13 +7,13 @@ hirez-signature-api is a helper for [Smite/Paladins/RealmRoyal api](https://webc
 Using npm:
 
 ```bash
-$ npm install hirez-signate-helper
+$ npm install hirez-signature-helper
 ```
 
 Using yarn:
 
 ```bash
-$ yarn add hirez-signate-helper
+$ yarn add hirez-signature-helper
 ```
 
 ## Example
